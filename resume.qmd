@@ -2,7 +2,9 @@
 layout: cv
 title: Xave Perry 's Resume
 ---
-# Brigham Young
+
+# Xave Perry
+
 Computer Science Major at Brigham Young University - Idaho
 
 <div id="webaddress">
@@ -16,16 +18,16 @@ Computer Science Major at Brigham Young University - Idaho
 
 ## Education
 
-`2017-2020`
-__Idaho State University__, Pocatello, ID
-
-- A.A in General Studies with a 3.89 GPA
-
 `Expected 2025`
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - BS degree in Computer Science with a 3.80 GPA
 - Minor in Computer Engineering
+
+`2017-2020`
+__Idaho State University__, Pocatello, ID
+
+- A.A in General Studies with a 3.89 GPA
 
 ## Skills
 
