@@ -1,88 +1,84 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Xave Perry 's Resume
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Brigham Young
+Computer Science Major at Brigham Young University - Idaho
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="perrshan2001@byui.edu">perrshan2001@byui.edu</a>
+| <a href="https://github.com/Perrshan/DS250">Data Science Program</a>
+| <a href="https://www.linkedin.com/in/xave-perry/">LinkedIn</a>
+| <a href="https://github.com/Perrshan/DS250">GitHub</a>
 </div>
 
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+<!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2017-2020`
+__Idaho State University__, Pocatello, ID
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- A.A in General Studies with a 3.89 GPA
 
-- Sizar
+`Expected 2025`
+__Brigham Young University - Idaho__, Rexburg, ID
 
-`1667 - death`
-__Trinity College, Cambridge__
+- BS degree in Computer Science with a 3.80 GPA
+- Minor in Computer Engineering
 
-- Fellow
+## Skills
 
+- Languages: Python, C, C#, MySQL, Erlang, Javascript, HTML, CSS, Rust
 
+- Software Tools: Visual Studio Code, Tableau, Logism-Evolution, LTspice, STM Cube IDE, Eclipse
 
-## Awards
+## School Projects
 
-`2012`
-President, *Royal Society*, London, UK
+- Designed a slide puzzle using C and a nucleo-I476 board
+- Created a 4-bit CPU to do basic math and display characters and numbers
+- Made an object-oriented banking program in C# using abstraction, encapsulation, inheritance, and polymorphism
+- Created a basic network game that multiple players can connect to a play using Python and TCP connections.
 
-Associate, *French Academy of Science*, Paris, France
+## Service and Work History
 
+`2023-2024`
+__Customer Care Representative__, Melaleuca
 
+- Achieved Star Performer amongst all of the other customer care representatives
+- Earned a score within the top 20% of the other agents two months in a row
+- Chosen to be one of the few agents to take extra calls on the Riverbend Ranch phone
+line
+- Improved my average handle time increasing my volume of phone calls so that I
+could efficiently help more people each day
 
-## Publications
+`2022-2023`
+__Custodian__, Honest Cleaning
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+- Cleaned a dental office and a plasma donation center both needing great attention to
+detail to keep patients and employees safe in medical environments
+- Applied feedback diligently to improve cleaning efforts to maintain building
+cleanliness according to the desired expectations of clients and employer
+- Planned hours of work to get all buildings ready for following day's activities and
+never received any complaints keeping clients happy
 
-### Journals
+`2020-2022`
+__Service Missionary__, Austin, Texas
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+- Worked and served 11 hours a day 6 days a week setting up appointments and teaching others
+- Kept an up to date data source that recorded all contacts that I had with those around me
+- Helped manage a Facebook page owned by the mission
 
-`1669`
-Lectiones opticæ.
+`2018-2020`
+__Team Lead__, Car Wash Express
 
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+- Led team to complete daily requirements and made sure all tasks were done
+professionally and correctly
+- Entrusted with quickly troubleshooting issues causing cars to not be washed as to
+maintain customer safety and satisfaction by rebooting systems or clearing the path
+of the conveyor belt
+- Promoted seasonal savings by explaining promotions and encouraging clients to
+purchase offers and was always a top seller
 
 <!-- ### Footer
 
