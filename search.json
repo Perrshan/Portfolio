@@ -1,73 +1,58 @@
 [
   {
-    "objectID": "ml.html",
-    "href": "ml.html",
-    "title": "about me",
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Xave Perry ’s Resume",
     "section": "",
-    "text": "MarkDown Basics"
+    "text": "Computer Science Major at Brigham Young University - Idaho\n\nperrshan2001@byui.edu | Data Science Program | LinkedIn | GitHub\n\n\n\n\n2017-2020 Idaho State University, Pocatello, ID\n\nA.A in General Studies with a 3.89 GPA\n\nExpected 2025 Brigham Young University - Idaho, Rexburg, ID\n\nBS degree in Computer Science with a 3.80 GPA\nMinor in Computer Engineering\n\n\n\n\n\nLanguages: Python, C, C#, MySQL, Erlang, Javascript, HTML, CSS, Rust\nSoftware Tools: Visual Studio Code, Tableau, Logism-Evolution, LTspice, STM Cube IDE, Eclipse\n\n\n\n\n\nDesigned a slide puzzle using C and a nucleo-I476 board\nCreated a 4-bit CPU to do basic math and display characters and numbers\nMade an object-oriented banking program in C# using abstraction, encapsulation, inheritance, and polymorphism\nCreated a basic network game that multiple players can connect to a play using Python and TCP connections.\n\n\n\n\n2023-2024 Customer Care Representative, Melaleuca\n\nAchieved Star Performer amongst all of the other customer care representatives\nEarned a score within the top 20% of the other agents two months in a row\nChosen to be one of the few agents to take extra calls on the Riverbend Ranch phone line\nImproved my average handle time increasing my volume of phone calls so that I could efficiently help more people each day\n\n2022-2023 Custodian, Honest Cleaning\n\nCleaned a dental office and a plasma donation center both needing great attention to detail to keep patients and employees safe in medical environments\nApplied feedback diligently to improve cleaning efforts to maintain building cleanliness according to the desired expectations of clients and employer\nPlanned hours of work to get all buildings ready for following day’s activities and never received any complaints keeping clients happy\n\n2020-2022 Service Missionary, Austin, Texas\n\nWorked and served 11 hours a day 6 days a week setting up appointments and teaching others\nKept an up to date data source that recorded all contacts that I had with those around me\nHelped manage a Facebook page owned by the mission\n\n2018-2020 Team Lead, Car Wash Express\n\nLed team to complete daily requirements and made sure all tasks were done professionally and correctly\nEntrusted with quickly troubleshooting issues causing cars to not be washed as to maintain customer safety and satisfaction by rebooting systems or clearing the path of the conveyor belt\nPromoted seasonal savings by explaining promotions and encouraging clients to purchase offers and was always a top seller"
   },
   {
-    "objectID": "ml.html#title-2-header",
-    "href": "ml.html#title-2-header",
-    "title": "about me",
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Xave Perry ’s Resume",
     "section": "",
-    "text": "MarkDown Basics"
+    "text": "2017-2020 Idaho State University, Pocatello, ID\n\nA.A in General Studies with a 3.89 GPA\n\nExpected 2025 Brigham Young University - Idaho, Rexburg, ID\n\nBS degree in Computer Science with a 3.80 GPA\nMinor in Computer Engineering"
   },
   {
-    "objectID": "exploration.html",
-    "href": "exploration.html",
-    "title": "about me",
+    "objectID": "resume.html#skills",
+    "href": "resume.html#skills",
+    "title": "Xave Perry ’s Resume",
     "section": "",
-    "text": "MarkDown Basics"
+    "text": "Languages: Python, C, C#, MySQL, Erlang, Javascript, HTML, CSS, Rust\nSoftware Tools: Visual Studio Code, Tableau, Logism-Evolution, LTspice, STM Cube IDE, Eclipse"
   },
   {
-    "objectID": "exploration.html#title-2-header",
-    "href": "exploration.html#title-2-header",
-    "title": "about me",
+    "objectID": "resume.html#school-projects",
+    "href": "resume.html#school-projects",
+    "title": "Xave Perry ’s Resume",
     "section": "",
-    "text": "MarkDown Basics"
+    "text": "Designed a slide puzzle using C and a nucleo-I476 board\nCreated a 4-bit CPU to do basic math and display characters and numbers\nMade an object-oriented banking program in C# using abstraction, encapsulation, inheritance, and polymorphism\nCreated a basic network game that multiple players can connect to a play using Python and TCP connections."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "about me",
+    "objectID": "resume.html#service-and-work-history",
+    "href": "resume.html#service-and-work-history",
+    "title": "Xave Perry ’s Resume",
     "section": "",
-    "text": "MarkDown Basics"
+    "text": "2023-2024 Customer Care Representative, Melaleuca\n\nAchieved Star Performer amongst all of the other customer care representatives\nEarned a score within the top 20% of the other agents two months in a row\nChosen to be one of the few agents to take extra calls on the Riverbend Ranch phone line\nImproved my average handle time increasing my volume of phone calls so that I could efficiently help more people each day\n\n2022-2023 Custodian, Honest Cleaning\n\nCleaned a dental office and a plasma donation center both needing great attention to detail to keep patients and employees safe in medical environments\nApplied feedback diligently to improve cleaning efforts to maintain building cleanliness according to the desired expectations of clients and employer\nPlanned hours of work to get all buildings ready for following day’s activities and never received any complaints keeping clients happy\n\n2020-2022 Service Missionary, Austin, Texas\n\nWorked and served 11 hours a day 6 days a week setting up appointments and teaching others\nKept an up to date data source that recorded all contacts that I had with those around me\nHelped manage a Facebook page owned by the mission\n\n2018-2020 Team Lead, Car Wash Express\n\nLed team to complete daily requirements and made sure all tasks were done professionally and correctly\nEntrusted with quickly troubleshooting issues causing cars to not be washed as to maintain customer safety and satisfaction by rebooting systems or clearing the path of the conveyor belt\nPromoted seasonal savings by explaining promotions and encouraging clients to purchase offers and was always a top seller"
   },
   {
-    "objectID": "index.html#title-2-header",
-    "href": "index.html#title-2-header",
-    "title": "about me",
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "DS250 Projects",
     "section": "",
-    "text": "MarkDown Basics"
+    "text": "Project 1\nProject 2\nProject 3\nProject 4\nProject 5",
+    "crumbs": [
+      "DS250 Projects"
+    ]
   },
   {
-    "objectID": "full_stack.html",
-    "href": "full_stack.html",
-    "title": "about me",
+    "objectID": "projects.html#repo-for-all-my-projects",
+    "href": "projects.html#repo-for-all-my-projects",
+    "title": "DS250 Projects",
     "section": "",
-    "text": "MarkDown Basics"
-  },
-  {
-    "objectID": "full_stack.html#title-2-header",
-    "href": "full_stack.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics"
-  },
-  {
-    "objectID": "cleansing.html",
-    "href": "cleansing.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics"
-  },
-  {
-    "objectID": "cleansing.html#title-2-header",
-    "href": "cleansing.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics"
+    "text": "Project 1\nProject 2\nProject 3\nProject 4\nProject 5",
+    "crumbs": [
+      "DS250 Projects"
+    ]
   },
   {
     "objectID": "Projects/project1.html",
@@ -286,7 +271,7 @@
     "href": "Projects/project4.html#prediction-metrics",
     "title": "Client Report - Project 4",
     "section": "Prediction Metrics",
-    "text": "Prediction Metrics\nDescribe the quality of your classification model using 2-3 different evaluation metrics. You also need to explain how to interpret each of the evaluation metrics you use.\nI was able to make a model with 91% accuracy which means that after the model trained with 70% of the data the remaining 30% was tested and predictions were madde, the model could then predict if a home was built before or after 1980 with that accuracy. I also have the Confusion Matrix which shows the breakdown of where the model succeeded and failed in the positive or negative. There is a True Positive where the model accuratly predicted a home was built before 1980, True Negative where the model accuratly predicted a home was not built before 1980, False Positive where the model inaccuratly predicated a home was built before 1980, and finally False Negative where the model inaccuratly predicted a home was not built before 1980.\n\n\nShow Model Data\n# Include and execute your code here\nprint(\"Accuracy - Random Forest:\", accuracy_rf)\nprint('--------------------------------------------------------------')\nprint(\"Confusion Matrix - Random Forest:\\n\", conf_matrix_rf)\n\n\nAccuracy - Random Forest: 0.6574252342446413\n--------------------------------------------------------------\nConfusion Matrix - Random Forest:\n [[ 994 1890]\n [ 779 4128]]",
+    "text": "Prediction Metrics\nDescribe the quality of your classification model using 2-3 different evaluation metrics. You also need to explain how to interpret each of the evaluation metrics you use.\nI was able to make a model with 91% accuracy which means that after the model trained with 70% of the data the remaining 30% was tested and predictions were madde, the model could then predict if a home was built before or after 1980 with that accuracy. I also have the Confusion Matrix which shows the breakdown of where the model succeeded and failed in the positive or negative. There is a True Positive where the model accuratly predicted a home was built before 1980, True Negative where the model accuratly predicted a home was not built before 1980, False Positive where the model inaccuratly predicated a home was built before 1980, and finally False Negative where the model inaccuratly predicted a home was not built before 1980.\n\n\nShow Model Data\n# Include and execute your code here\nprint(\"Accuracy - Random Forest:\", accuracy_rf)\nprint('--------------------------------------------------------------')\nprint(\"Confusion Matrix - Random Forest:\\n\", conf_matrix_rf)\n\n\nAccuracy - Random Forest: 0.6599922988063149\n--------------------------------------------------------------\nConfusion Matrix - Random Forest:\n [[ 992 1892]\n [ 757 4150]]",
     "crumbs": [
       "DS250 Projects",
       "Project 4"
@@ -407,100 +392,24 @@
     "href": "Projects/project5.html#can-star-wars-predict-income",
     "title": "Client Report - Project 5",
     "section": "Can Star Wars Predict Income?",
-    "text": "Can Star Wars Predict Income?\nBuild a machine learning model that predicts whether a person makes more than $50k. Describe your model and report the accuracy.\nI was surprised to see that based off of the favorability of the different Star Wars characters provided in the survey that a model could prediect 60-70% of the time whether someone made over $50,000. It is a large amount of the data, but with how random those rankings are I do not think that I am overloading the model with too much information to skew the results. From the results of this model it seems that if you were to ask someone about their love for these different characters the model could predict their income is over $50k about 65% of the time.\n\n\nRead and format data\n# Include and execute your code here\n\nX = df[['Han Solo', 'Luke Skywalker', 'Princess Leia Organa', 'Anakin Skywalker', 'Obi Wan Kenobi', 'Emperor Palpatine', 'Darth Vader', 'Lando Calrissian', 'Boba Fett', 'C-3P0', 'R2 D2', 'Jar Jar Binks', 'Padme Amidala', 'Yoda']]\n\nX_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3)\n\n\n\n\nCalculate accuracy, conf matrix, class rep\n# Include and execute your code here\n\n# Initialize the Random Forest model\nrf_model = RandomForestClassifier()\n\n# Train the model using the training data\nrf_model.fit(X_train, y_train)\n\n# Make predictions on the test data\ny_pred_rf = rf_model.predict(X_test)\n\nconf_matrix_rf = confusion_matrix(y_test, y_pred_rf)\nclassification_rep_rf = classification_report(y_test, y_pred_rf)\naccuracy_rf = accuracy_score(y_test, y_pred_rf)\n\nprint(accuracy_rf)\nprint(conf_matrix_rf)\nprint(classification_rep_rf)\n\n\n0.6882022471910112\n[[ 12  96]\n [ 15 233]]\n              precision    recall  f1-score   support\n\n           0       0.44      0.11      0.18       108\n           1       0.71      0.94      0.81       248\n\n    accuracy                           0.69       356\n   macro avg       0.58      0.53      0.49       356\nweighted avg       0.63      0.69      0.62       356",
+    "text": "Can Star Wars Predict Income?\nBuild a machine learning model that predicts whether a person makes more than $50k. Describe your model and report the accuracy.\nI was surprised to see that based off of the favorability of the different Star Wars characters provided in the survey that a model could prediect 60-70% of the time whether someone made over $50,000. It is a large amount of the data, but with how random those rankings are I do not think that I am overloading the model with too much information to skew the results. From the results of this model it seems that if you were to ask someone about their love for these different characters the model could predict their income is over $50k about 65% of the time.\n\n\nRead and format data\n# Include and execute your code here\n\nX = df[['Han Solo', 'Luke Skywalker', 'Princess Leia Organa', 'Anakin Skywalker', 'Obi Wan Kenobi', 'Emperor Palpatine', 'Darth Vader', 'Lando Calrissian', 'Boba Fett', 'C-3P0', 'R2 D2', 'Jar Jar Binks', 'Padme Amidala', 'Yoda']]\n\nX_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3)\n\n\n\n\nCalculate accuracy, conf matrix, class rep\n# Include and execute your code here\n\n# Initialize the Random Forest model\nrf_model = RandomForestClassifier()\n\n# Train the model using the training data\nrf_model.fit(X_train, y_train)\n\n# Make predictions on the test data\ny_pred_rf = rf_model.predict(X_test)\n\nconf_matrix_rf = confusion_matrix(y_test, y_pred_rf)\nclassification_rep_rf = classification_report(y_test, y_pred_rf)\naccuracy_rf = accuracy_score(y_test, y_pred_rf)\n\nprint(accuracy_rf)\nprint(conf_matrix_rf)\nprint(classification_rep_rf)\n\n\n0.6966292134831461\n[[ 12  92]\n [ 16 236]]\n              precision    recall  f1-score   support\n\n           0       0.43      0.12      0.18       104\n           1       0.72      0.94      0.81       252\n\n    accuracy                           0.70       356\n   macro avg       0.57      0.53      0.50       356\nweighted avg       0.63      0.70      0.63       356",
     "crumbs": [
       "DS250 Projects",
       "Project 5"
     ]
   },
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "DS250 Projects",
-    "section": "",
-    "text": "Project 1\nProject 2\nProject 3\nProject 4\nProject 5",
-    "crumbs": [
-      "DS250 Projects"
-    ]
-  },
-  {
-    "objectID": "projects.html#repo-for-all-my-projects",
-    "href": "projects.html#repo-for-all-my-projects",
-    "title": "DS250 Projects",
-    "section": "",
-    "text": "Project 1\nProject 2\nProject 3\nProject 4\nProject 5",
-    "crumbs": [
-      "DS250 Projects"
-    ]
-  },
-  {
-    "objectID": "competition.html",
-    "href": "competition.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics\n#’ — #’ title: Palmer Penguins #’ author: Norah Jones #’ date: 3/12/23 #’ format: html #’ —\nlibrary(palmerpenguins)\n#’ ## Exploring the data #’ See ?@fig-bill-sizes for an exploration of bill sizes by species.\n#| label: fig-bill-sizes #| fig-cap: Bill Sizes by Species #| warning: false library(ggplot2) ggplot(data = penguins, aes(x = bill_length_mm, y = bill_depth_mm, group = species)) + geom_point(aes(color = species, shape = species), size = 3, alpha = 0.8) + labs(title = “Penguin bill dimensions”, subtitle = “Bill length and depth for Adelie, Chinstrap and Gentoo Penguins at Palmer Station LTER”, x = “Bill length (mm)”, y = “Bill depth (mm)”, color = “Penguin species”, shape = “Penguin species”)"
-  },
-  {
-    "objectID": "competition.html#title-2-header",
-    "href": "competition.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics\n#’ — #’ title: Palmer Penguins #’ author: Norah Jones #’ date: 3/12/23 #’ format: html #’ —\nlibrary(palmerpenguins)\n#’ ## Exploring the data #’ See ?@fig-bill-sizes for an exploration of bill sizes by species.\n#| label: fig-bill-sizes #| fig-cap: Bill Sizes by Species #| warning: false library(ggplot2) ggplot(data = penguins, aes(x = bill_length_mm, y = bill_depth_mm, group = species)) + geom_point(aes(color = species, shape = species), size = 3, alpha = 0.8) + labs(title = “Penguin bill dimensions”, subtitle = “Bill length and depth for Adelie, Chinstrap and Gentoo Penguins at Palmer Station LTER”, x = “Bill length (mm)”, y = “Bill depth (mm)”, color = “Penguin species”, shape = “Penguin species”)"
-  },
-  {
-    "objectID": "story_telling.html",
-    "href": "story_telling.html",
+    "objectID": "index.html",
+    "href": "index.html",
     "title": "about me",
     "section": "",
     "text": "MarkDown Basics"
   },
   {
-    "objectID": "story_telling.html#title-2-header",
-    "href": "story_telling.html#title-2-header",
+    "objectID": "index.html#title-2-header",
+    "href": "index.html#title-2-header",
     "title": "about me",
     "section": "",
     "text": "MarkDown Basics"
-  },
-  {
-    "objectID": "resume.html",
-    "href": "resume.html",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "Physicist, Mathematician, Cambridge professor.\n\nisaac@applesdofall.org | My wikipedia page\n\n\n\nStanding on the shoulders of giants\n\n\nLaws of motion, gravitation, minting coins, disliking Robert Hooke\n\n\n\nCooling, power series, optics, alchemy, planetary motions, apples.\n\n\n\n\n1654-1660 The King’s School, Grantham.\nJune 1661 - now Trinity College, Cambridge\n\nSizar\n\n1667 - death Trinity College, Cambridge\n\nFellow\n\n\n\n\n2012 President, Royal Society, London, UK\nAssociate, French Academy of Science, Paris, France\n\n\n\n\n\n\n1669 Newton Sir I, De analysi per æquationes numero terminorum infinitas.\n1669 Lectiones opticæ.\netc. etc. etc.\n\n\n\n2012 Infinitesimal calculus for solutions to physics problems, SMBC patent 001\n\n\n\n\n1600 Royal Mint, London\n\nWarden\nMinted coins\n\n1600 Lucasian professor of Mathematics, Cambridge University"
-  },
-  {
-    "objectID": "resume.html#currently",
-    "href": "resume.html#currently",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "Standing on the shoulders of giants\n\n\nLaws of motion, gravitation, minting coins, disliking Robert Hooke\n\n\n\nCooling, power series, optics, alchemy, planetary motions, apples."
-  },
-  {
-    "objectID": "resume.html#education",
-    "href": "resume.html#education",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "1654-1660 The King’s School, Grantham.\nJune 1661 - now Trinity College, Cambridge\n\nSizar\n\n1667 - death Trinity College, Cambridge\n\nFellow"
-  },
-  {
-    "objectID": "resume.html#awards",
-    "href": "resume.html#awards",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "2012 President, Royal Society, London, UK\nAssociate, French Academy of Science, Paris, France"
-  },
-  {
-    "objectID": "resume.html#publications",
-    "href": "resume.html#publications",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "1669 Newton Sir I, De analysi per æquationes numero terminorum infinitas.\n1669 Lectiones opticæ.\netc. etc. etc.\n\n\n\n2012 Infinitesimal calculus for solutions to physics problems, SMBC patent 001"
-  },
-  {
-    "objectID": "resume.html#occupation",
-    "href": "resume.html#occupation",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "1600 Royal Mint, London\n\nWarden\nMinted coins\n\n1600 Lucasian professor of Mathematics, Cambridge University"
   }
 ]
