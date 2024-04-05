@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "Templates/DS350_Template.html",
-    "href": "Templates/DS350_Template.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "TODO: Update with template from Paul\n\n\n\n\n Back to top"
-  },
-  {
     "objectID": "resume.html",
     "href": "resume.html",
     "title": "Xave Perry ’s Resume",
@@ -42,25 +35,21 @@
     "text": "2023-2024 Customer Care Representative, Melaleuca\n\nAchieved Star Performer amongst all of the other customer care representatives\nEarned a score within the top 20% of the other agents two months in a row\nChosen to be one of the few agents to take extra calls on the Riverbend Ranch phone line\nImproved my average handle time increasing my volume of phone calls so that I could efficiently help more people each day\n\n2022-2023 Custodian, Honest Cleaning\n\nCleaned a dental office and a plasma donation center both needing great attention to detail to keep patients and employees safe in medical environments\nApplied feedback diligently to improve cleaning efforts to maintain building cleanliness according to the desired expectations of clients and employer\nPlanned hours of work to get all buildings ready for following day’s activities and never received any complaints keeping clients happy\n\n2020-2022 Service Missionary, Austin, Texas\n\nWorked and served 11 hours a day 6 days a week setting up appointments and teaching others\nKept an up to date data source that recorded all contacts that I had with those around me\nHelped manage a Facebook page owned by the mission\n\n2018-2020 Team Lead, Car Wash Express\n\nLed team to complete daily requirements and made sure all tasks were done professionally and correctly\nEntrusted with quickly troubleshooting issues causing cars to not be washed as to maintain customer safety and satisfaction by rebooting systems or clearing the path of the conveyor belt\nPromoted seasonal savings by explaining promotions and encouraging clients to purchase offers and was always a top seller"
   },
   {
-    "objectID": "Projects/project5.html",
-    "href": "Projects/project5.html",
-    "title": "Xave Perry Data Science Portfolio",
+    "objectID": "Templates/DS350_Template.html",
+    "href": "Templates/DS350_Template.html",
+    "title": "Client Report - [Insert Project Title]",
     "section": "",
-    "text": "Back to top",
-    "crumbs": [
-      "DS250 Projects",
-      "Project 5"
-    ]
+    "text": "TODO: Update with template from Paul\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "Projects/project3.html",
-    "href": "Projects/project3.html",
+    "objectID": "Projects/project4.html",
+    "href": "Projects/project4.html",
     "title": "Xave Perry Data Science Portfolio",
     "section": "",
     "text": "Back to top",
     "crumbs": [
       "DS250 Projects",
-      "Project 3"
+      "Project 4"
     ]
   },
   {
@@ -72,42 +61,6 @@
     "crumbs": [
       "DS250 Projects",
       "Project 1"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "About Me",
-    "section": "",
-    "text": "Xave Perry Picture\n\n\n\n\nI am from Idaho Falls, Idaho and have been here most of my life. I have a wonderful wife and an amazing dog that make me very happy. I have a passion for coding and I have really enjoyed my time at BYU-I studying Computer Science."
-  },
-  {
-    "objectID": "index.html#a-little-about-me",
-    "href": "index.html#a-little-about-me",
-    "title": "About Me",
-    "section": "",
-    "text": "I am from Idaho Falls, Idaho and have been here most of my life. I have a wonderful wife and an amazing dog that make me very happy. I have a passion for coding and I have really enjoyed my time at BYU-I studying Computer Science."
-  },
-  {
-    "objectID": "Projects/project2.html",
-    "href": "Projects/project2.html",
-    "title": "Xave Perry Data Science Portfolio",
-    "section": "",
-    "text": "Back to top",
-    "crumbs": [
-      "DS250 Projects",
-      "Project 2"
-    ]
-  },
-  {
-    "objectID": "Projects/project4.html",
-    "href": "Projects/project4.html",
-    "title": "Xave Perry Data Science Portfolio",
-    "section": "",
-    "text": "Back to top",
-    "crumbs": [
-      "DS250 Projects",
-      "Project 4"
     ]
   },
   {
@@ -131,10 +84,57 @@
     ]
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Xave Perry Picture\n\n\n\n\nI am from Idaho Falls, Idaho and have been here most of my life. I have a wonderful wife and an amazing dog that make me very happy. I have a passion for coding and I have really enjoyed my time at BYU-I studying Computer Science."
+  },
+  {
+    "objectID": "index.html#a-little-about-me",
+    "href": "index.html#a-little-about-me",
+    "title": "About Me",
+    "section": "",
+    "text": "I am from Idaho Falls, Idaho and have been here most of my life. I have a wonderful wife and an amazing dog that make me very happy. I have a passion for coding and I have really enjoyed my time at BYU-I studying Computer Science."
+  },
+  {
+    "objectID": "Projects/project3.html",
+    "href": "Projects/project3.html",
+    "title": "Xave Perry Data Science Portfolio",
+    "section": "",
+    "text": "Back to top",
+    "crumbs": [
+      "DS250 Projects",
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "Projects/project2.html",
+    "href": "Projects/project2.html",
+    "title": "Xave Perry Data Science Portfolio",
+    "section": "",
+    "text": "Back to top",
+    "crumbs": [
+      "DS250 Projects",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "Projects/project5.html",
+    "href": "Projects/project5.html",
+    "title": "Xave Perry Data Science Portfolio",
+    "section": "",
+    "text": "Back to top",
+    "crumbs": [
+      "DS250 Projects",
+      "Project 5"
+    ]
+  },
+  {
     "objectID": "Templates/DS250_Template.html",
     "href": "Templates/DS250_Template.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
-    "text": "Uncomment the entire section to use this template\n\n\n\n\n\n Back to top"
+    "text": "Uncomment the entire section to use this template\n\n\n\n\n\n\n\n Back to top"
   }
 ]
